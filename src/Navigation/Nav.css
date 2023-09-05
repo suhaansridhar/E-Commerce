@@ -1,0 +1,11 @@
+.nav--container{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin-right: 30%;
+    
+}
+
+.nav--container input{
+    border: 0.1rem solid black;
+}
