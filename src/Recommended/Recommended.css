@@ -1,0 +1,16 @@
+.recommended--container .recommended--container--headline{
+    font-size: 2rem;
+}
+
+.recommended--container .recommended--container--buttons button{
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    color: yellow;
+}

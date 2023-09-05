@@ -16,7 +16,7 @@ function Products(){
         <AiOutlineStar className='product--container--stars--item'/>
         <AiOutlineStar className='product--container--stars--item'/>
       </section>
-      <section className="product--container--price"><del>300</del>200</section>
+      <section className="product--container--price"><del>300</del> 200</section>
       <section className="product--container--bag"><BsFillBagHeartFill /></section>
     </div>
   )
