@@ -3,11 +3,13 @@
     width: 100%;
     margin: auto;
     height: 20%;
+    border: 0.1rem solid black;
 }
 
 .nav--container--inner{
     display: flex;
     justify-content: space-between;
+    border: 0.1rem solid black;
     width: 50%;
     margin: auto;
 }
