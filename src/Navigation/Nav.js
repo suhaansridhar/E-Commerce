@@ -4,7 +4,7 @@ function Nav(){
   return(
     <div className="nav--container--outer">
       <div className="nav--container--inner">
-        <div>
+        <div className="nav--container--inner--1">
           <input type="text" placeholder="Enter your shoe"/>
         </div>
         <div className="nav--container--inner--icons">
@@ -12,7 +12,7 @@ function Nav(){
           <AiOutlineShoppingCart className='nav--container--icons--items'/>
           <AiOutlineUser className='nav--container--icons--items'/>
         </div>
-      </div>
+       </div> 
     </div>
   )
 }

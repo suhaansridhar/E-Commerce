@@ -1,3 +1,7 @@
+.recommended--container{
+    padding: 1rem;
+}
+
 .recommended--container .recommended--container--headline{
     font-size: 2rem;
 }

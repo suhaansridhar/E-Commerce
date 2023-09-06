@@ -12,7 +12,9 @@ function App(){
       <div className='home--container--right--side'>
         <Nav />
         <Recommended /> <br />
-        <Products />
+        <div className="home--container--right--side--products">
+          <Products />
+        </div>
       </div>
     </div>
   )

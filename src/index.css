@@ -18,3 +18,8 @@
   width: 90%;
 }
 
+.home--container--right--side--products{
+  display: flex;
+  flex-wrap: wrap;
+}
+

@@ -1,0 +1,24 @@
+.sidebar--container--outer{
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar--container--logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 3;
+    height: 100px;
+    padding: 1rem;
+    border-bottom: 0.1rem solid black;
+}
+
+.sidebar--container--logo--1{
+    width: 3rem;
+    height: 3rem;
+}
+
+.sidebar--container--options{
+    flex-grow: 1;
+    padding: 1rem;
+}
