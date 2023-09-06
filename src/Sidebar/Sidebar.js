@@ -6,11 +6,14 @@ import {AiOutlineShoppingCart} from 'react-icons/ai';
 function Sidebar(){
     return( 
         <div className="sidebar--container--outer">
-            <div className="sidebar--container--logo"><AiOutlineShoppingCart /></div>
-
-            <Category />
-            <Price />
-            <Colors />
+            <div className="sidebar--container--logo">
+                <AiOutlineShoppingCart />
+            </div>
+            <div className='sidebar--container--options'>
+                <Category />
+                <Price />
+                <Colors />
+            </div>
         </div>
     )
 }
