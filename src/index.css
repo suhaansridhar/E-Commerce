@@ -5,3 +5,16 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+.home--container{
+  display: flex;
+}
+
+.home--container--left--side{
+  width: 10%;
+  border-right: 0.1rem solid black;
+}
+
+.home--container--right--side{
+  width: 90%;
+}
+
